@@ -3,4 +3,4 @@
 
 ### Description of Research Project:
 
-# Prediciting Music Popularity Using Machine Learning Algorithms
+Prediciting Music Popularity Using Machine Learning Algorithms
