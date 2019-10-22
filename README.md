@@ -1,5 +1,7 @@
-# Research Project
-# https://josesc23.github.io/Research-Project/
+# Research Project for CSC 450-02: Senior Research
 
-## Description of Research Project: 
 # Prediciting Music Popularity Using Machine Learning Algorithms
+
+## Description
+
+### Content Coming Soon!
